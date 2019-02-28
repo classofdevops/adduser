@@ -2,5 +2,5 @@
 #echo "please enter username"
 #read user
 
-useradd jdoe 
+sudo useradd jdoe 
 echo "user is created successfully"
