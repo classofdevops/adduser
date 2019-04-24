@@ -3,4 +3,4 @@
 #read user
 
 sudo useradd jdoe 
-echo "user is created successfully"
+echo "user is created successfully!!!"
