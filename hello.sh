@@ -3,4 +3,5 @@
 #read user
 
 sudo useradd mdh 
-echo "user is created successfully!!!"
+echo "user is created successfully!!!"'
+echo "Bye"
